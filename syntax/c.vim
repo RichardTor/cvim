@@ -33,4 +33,5 @@ hi cBinaryOperator ctermfg=White guifg=#ff8c00
 hi cBinaryOperatorError ctermfg=White guifg=#ff8c00
 hi cLogicalOperator ctermfg=White guifg=#ff8c00
 hi cLogicalOperatorError ctermfg=White guifg=#ff8c00
-
+" - is not key word
+set isk-=-
